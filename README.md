@@ -1,4 +1,4 @@
-# 📊 Dashboard Financeiro 
+# 📊 Dashboard Financeiro
 
 Análise Estratégica de Movimentações Desenvolvimento de um **dashboard gerencial financeiro**. O projeto foi desenvolvido no **Power BI** como parte de um projeto simulado com aplicação prática em cenários reais de controle e análise financeira.
 ---
