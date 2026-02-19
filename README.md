@@ -133,3 +133,6 @@ A análise possibilita:
 • Apoio à tomada de decisão baseada em dados
 
 ---
+
+### Autor
+Projeto desenvolvido por [Dayane Santos] . Em aprendizado com a Hashtag Treinamentos.
